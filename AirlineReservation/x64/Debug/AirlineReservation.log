@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  AirlineReservation.cpp
+  flight.cpp
+  Passenger.cpp
+  Plane.cpp
+  Reservation.cpp
+  Reservation2.cpp
+  ScheduleManager.cpp
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(266): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(301): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(335): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(488): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(492): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(496): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(501): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(508): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(515): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(521): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(527): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(528): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(534): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(584): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(588): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\github\airlinereservation-final\airlinereservation\schedulemanager.cpp(592): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Ticket.cpp
+  Utils.cpp
+  Generating Code...
+  AirlineReservation.vcxproj -> C:\GitHub\AirlineReservation-Final\x64\Debug\AirlineReservation.exe
